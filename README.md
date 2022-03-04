@@ -3,4 +3,5 @@ Decomposition of data from consumer-grade wearables tracks multiple physiologica
 
 
 AUTHORS:  Caleb Mayer**, Jonathan Tyler**, Yu Fang, Christopher Flora, Elena Frank, Muneesh Tewari, Sung Won Choi, Srijan Sen, Daniel B. Forger 
+
 ** These authors contributed equally
