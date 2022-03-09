@@ -13,7 +13,7 @@ for i = 1:s_length
     
     if(~is_zero)
         
-        if(~steps_values(i))
+        if(~steps_values(i)) && (i < s_length)
             
             starts = [starts; steps_times(i)];
             
