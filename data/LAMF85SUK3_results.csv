@@ -1,0 +1,7 @@
+Day, Constant Vertical Shift in HR, Amplitude of Circadian Oscillation, Horizontal Shift (Phase Estimate-Raw), Heart Rate Increase per Step, Uncorrelated noise (standard deviation), Error correlation decay rate, Uncertainty in phase (80 confidence), Number of data points, Daily step count, Data source 
+-87, 68.563863, 4.480736, 56.472630, 0.363117, 6.304694, 0.683315, 5.666016, 155, 10439, Student
+-86, 68.781768, 3.336916, 25.442915, 0.469834, 7.027468, 0.686409, 11.994141, 181, 5629, Student
+-85, 71.584819, 4.536364, 242.967351, 0.355955, 5.873981, 0.826442, 8.689453, 157, 5004, Student
+-84, 65.489256, 5.190998, 217.490812, 0.323475, 5.841751, 0.864469, 7.166016, 102, 2037, Student
+-67, 87.295028, 7.566211, 255.768409, 0.330072, 13.257359, 0.805291, 11.994141, 116, 2971, Student
+-66, 97.508552, 16.385017, 6.697966, 0.572970, 16.846380, 0.686469, 11.994141, 44, 57, Student
