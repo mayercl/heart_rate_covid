@@ -1,4 +1,4 @@
-function steps_all = bayes_hr_estimator_Snyder(hr_data, steps_data, bin_size, id)
+function steps_all = bayes_hr_estimator_oneday(hr_data, steps_data, bin_size, id)
 
 %% Close figures
 
