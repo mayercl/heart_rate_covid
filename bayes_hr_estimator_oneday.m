@@ -55,7 +55,7 @@ phases = [];
 
 % Open results.csv file and add a header line
 
-results_file = fopen(['results_snyder/' id '_results.csv'], 'w');
+results_file = fopen(['results/' id '_results.csv'], 'w');
 
 fprintf(results_file, 'Date (dd-mmm-yyyy), Constant Vertical Shift in HR, Amplitude of Circadian Oscillation, Horizontal Shift (Phase Estimate-Raw), Phase Estimate (Time), Heart Rate Increase per Step, Uncorrelated noise (standard deviation), Error correlation decay rate, STD of constant shift parameter, STD of amplitude, Uncertainty in phase (80 confidence), STD of HRpS, STD of uncorrelated noise, STD of correlated noise, Number of data points, MSE, Daily step count \n');
 
